@@ -1,5 +1,8 @@
 // Problem Description -: Given an array Arr[ ] of N integers and a positive integer K. The task is to cyclically rotate the array clockwise by K.
 
+
+//rotate array by clock wise direction
+
 #include <stdio.h>
 #include <vector>
 #include <iostream>
