@@ -21,9 +21,9 @@ vector<int> rotate(int arr[],int a,int b){
 }
 
 int main(){
-    int Array[] = {1,2,3,4,5};
+    int Array[] = {1,2,3,4,5,6,7};
     int N = sizeof(Array)/sizeof(int);
-    int K = 5;
+    int K = 2;
 
     vector<int> arr = rotate(Array,N,K);
 
